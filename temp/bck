@@ -1,0 +1,15 @@
+# mysql
+user:root psw:song
+
+# Anki
+user:zju email
+
+# influxdb 2.0 beta
+
+user:song pwd:13859017xxxx
+
+# disqus
+user:gmail
+
+# slack
+user: zju email
